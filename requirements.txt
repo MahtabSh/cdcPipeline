@@ -1,0 +1,8 @@
+Faker==24.14.0
+mysql-connector==2.2.9
+mysql-connector-python==8.3.0
+mysql-replication==1.0.8
+packaging==24.0
+PyMySQL==1.1.0
+python-dateutil==2.9.0.post0
+six==1.16.0
